@@ -41,23 +41,23 @@ This repository is for **educational and defensive improvement purposes only**.
 │ ├── tryhackme/
 │ ├── picoctf/
 │ └── custom-labs/
-│
+
 ├── 📁 categories/
 │ ├── web/
 │ ├── active-directory/
 │ ├── privilege-escalation/
 │ ├── forensics/
 │ └── reverse-engineering/
-│
+
 ├── 📁 tools/
 │ ├── nmap.md
 │ ├── burpsuite.md
 │ ├── bloodhound.md
 │ └── metasploit.md
-│
+
 ├── 📁 templates/
 │ └── writeup-template.md
-│
+
 └── README.md
 
 ---
