@@ -32,37 +32,6 @@ This repository is for **educational and defensive improvement purposes only**.
 
 ---
 
-## 🗂 Repository Structure
-
-📁 ctf-writeups/
-│
-
-├── 📁 platforms/
-  │ ├── hack-the-box/
-  │ ├── tryhackme/
-  │ ├── picoctf/
-  │ └── custom-labs/
-
-├── 📁 categories/
-│ ├── web/
-│ ├── active-directory/
-│ ├── privilege-escalation/
-│ ├── forensics/
-│ └── reverse-engineering/
-
-├── 📁 tools/
-│ ├── nmap.md
-│ ├── burpsuite.md
-│ ├── bloodhound.md
-│ └── metasploit.md
-
-├── 📁 templates/
-│ └── writeup-template.md
-
-└── README.md
-
----
-
 ## 📝 Write-Up Format
 
 Each write-up follows a **consistent, professional structure**:
