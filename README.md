@@ -110,7 +110,8 @@ While this is primarily a personal knowledge base:
 
 ## 📬 Contact & Attribution
 
-**Author:** K41ju0x 
+**Author:** K41ju0x
+
 **Focus Areas:** Penetration Testing, Offensive Security, Blue Team Awareness  
 **Blog / Portfolio:**   
 **LinkedIn:**   
