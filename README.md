@@ -37,9 +37,13 @@ This repository is for **educational and defensive improvement purposes only**.
 📁 ctf-writeups/
 │
 ├── 📁 platforms/
+
 │ ├── hack-the-box/
+
 │ ├── tryhackme/
+
 │ ├── picoctf/
+
 │ └── custom-labs/
 
 ├── 📁 categories/
