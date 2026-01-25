@@ -114,7 +114,7 @@ While this is primarily a personal knowledge base:
 **Focus Areas:** Penetration Testing, Offensive Security, Blue Team Awareness  
 **Blog / Portfolio:**   
 **LinkedIn:**   
-**GitHub:** [Link]
+**GitHub:** [[Link]](https://github.com/k41ju0x)
 
 ---
 
