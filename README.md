@@ -115,7 +115,7 @@ While this is primarily a personal knowledge base:
 **Focus Areas:** Penetration Testing, Offensive Security, Blue Team Awareness  
 **Blog / Portfolio:**   
 **LinkedIn:**   
-**GitHub:** [[Link]](https://github.com/k41ju0x)
+**GitBook:** [[[Link]](https://github.com/k41ju0x)](https://k41ju0x.gitbook.io/hack-the-box-machine-write-ups/)
 
 ---
 
